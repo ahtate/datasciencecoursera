@@ -1,2 +1,3 @@
 # datasciencecoursera
-Coursera data scienceentist course1
+Coursera data scientist course1
+Andrew Hunter-Tate
